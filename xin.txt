@@ -1,4 +1,8 @@
 1112222444
 fang
+<<<<<<< HEAD
 xin
 jiayige999
+=======
+xin
+>>>>>>> fenzhi1
